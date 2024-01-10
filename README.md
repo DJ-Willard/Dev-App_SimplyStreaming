@@ -41,17 +41,18 @@ To get started with the Simply Streaming app, follow the setup instructions belo
 
 The project follows a modular structure:
 
-/simply-streaming-app
-|-- /frontend
-| |-- /src
-| | |-- /components
-| | |-- /screens
-| | |-- /navigation
-|-- /backend
-| |-- /src
-| | |-- /controllers
-| | |-- /models
-| | |-- /routes
+/simply-streaming-app <br>
+|-- /frontend <br>
+|   |-- /src <br>
+|   |   |-- /components <br>
+|   |   |-- /screens <br>
+|   |   |-- /navigation <br>
+|-- /backend <br>
+|   |-- /src <br>
+|   |   |-- /controllers <br>
+|   |   |-- /models <br>
+|   |   |-- /routes <br>
+
 
 - `/frontend`: Contains the React Native app.
 - `/backend`: Contains the Python backend with SQL database.
