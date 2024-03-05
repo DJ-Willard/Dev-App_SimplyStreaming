@@ -1,0 +1,8 @@
+Public api's?
+https://data.reelgood.com/ (possible solution)
+
+https://flixed.io/netflix-api-for-developers yes
+https://flixed.io/hulu-api-for-developers no
+https://flixed.io/amazon-prime-video-api-for-developers no
+https://flixed.io/disney-api-for-developers no
+Apple tv no 
